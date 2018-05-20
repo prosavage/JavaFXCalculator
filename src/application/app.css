@@ -1,0 +1,18 @@
+#result {
+	-fx-background-color: rgb(30,30,30);
+	-fx-color: white;
+}
+
+#scene {
+	-fx-background-color: rgb(64,64,64);
+}
+
+.button {
+    -fx-background-color: rgba(80,80,80,0.5);
+    -fx-color: green;
+    
+}
+
+.button:hover {
+	-fx-background-color: rgba(80,80,80,1);
+}
