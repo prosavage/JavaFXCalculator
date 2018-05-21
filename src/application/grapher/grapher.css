@@ -1,0 +1,25 @@
+.text-input {
+    -fx-text-inner-color: green;
+}
+
+#background {
+    -fx-background-color: rgb(64,64,64);
+}
+
+.button {
+    -fx-background-color: rgba(80,80,80,0.5);
+    -fx-color: green;
+
+}
+
+.button:hover {
+	-fx-background-color: rgba(80,80,80,1);
+}
+
+.textfield {
+    -fx-background-color: rgba(80,80,80,0.5);
+}
+
+#canvas {
+    -fx-background-color: rgba(80,80,80,0.5);
+}
