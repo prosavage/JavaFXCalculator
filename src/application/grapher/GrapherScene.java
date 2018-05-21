@@ -19,9 +19,12 @@ public class GrapherScene {
         } catch (Exception ex) {
             ex.printStackTrace();
         }
+        GrapherController grapher = new GrapherController();
+        grapher.test();
 
 
     }
+
 
 
 
